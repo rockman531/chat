@@ -43,7 +43,6 @@ def convert(lines):
     print('viki傳了', viki_sticker_count, '個貼圖')
     print('viki傳了', viki_picture_count, '張圖片')
        
-       # print(s)
 
 # 寫入檔案
 def write_file(filename,lines):
